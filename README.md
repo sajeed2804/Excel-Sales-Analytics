@@ -26,7 +26,7 @@
 
 - **Purpose of sales analytics:** Evaluate financial performance, aid decision-making, and improve communication with stakeholders.
 
-- **Importance of analyzing Finance data:**  Provide a basis for budgeting and forecasting.
+- **Importance of analyzing Finance data:**  Help compare performance with past periods, and provide a basis for budgeting and forecasting.
 
 - **Role of reports:** Match financial planning with strategic goals and build confidence in the organization's financial future.
 
@@ -40,7 +40,5 @@
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	A better understanding of sales and finance reports.
 - [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
